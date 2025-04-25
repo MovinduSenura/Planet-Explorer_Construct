@@ -1,0 +1,30 @@
+﻿{
+	"version": 1745586346,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/planet4-sheet0.png",
+		"images/planet4-sheet1.png",
+		"images/background-sheet0.png",
+		"images/spaceship-sheet0.png",
+		"images/planet2-sheet0.png",
+		"images/planet2-sheet1.png",
+		"images/boom-sheet0.png",
+		"images/planet1-sheet0.png",
+		"images/planet1-sheet1.png",
+		"images/planet5-sheet0.png",
+		"images/planet5-sheet1.png",
+		"images/planet3-sheet0.png",
+		"images/planet3-sheet1.png",
+		"images/planet6-sheet0.png",
+		"images/planet6-sheet1.png",
+		"images/laser-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png"
+	]
+}
